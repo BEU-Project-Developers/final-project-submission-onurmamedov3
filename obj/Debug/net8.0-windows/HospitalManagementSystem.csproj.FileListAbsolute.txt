@@ -1,3 +1,4 @@
+C:\Users\onurm\source\repos\LoginFormExmaple\obj\Debug\net8.0-windows\HospitalManagementSystem.csproj.AssemblyReference.cache
 C:\Users\onurm\source\repos\LoginFormExmaple\bin\Debug\net8.0-windows\HospitalManagementSystem.exe
 C:\Users\onurm\source\repos\LoginFormExmaple\bin\Debug\net8.0-windows\HospitalManagementSystem.deps.json
 C:\Users\onurm\source\repos\LoginFormExmaple\bin\Debug\net8.0-windows\HospitalManagementSystem.runtimeconfig.json
@@ -16,7 +17,6 @@ C:\Users\onurm\source\repos\LoginFormExmaple\bin\Debug\net8.0-windows\runtimes\w
 C:\Users\onurm\source\repos\LoginFormExmaple\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
 C:\Users\onurm\source\repos\LoginFormExmaple\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
 C:\Users\onurm\source\repos\LoginFormExmaple\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
-C:\Users\onurm\source\repos\LoginFormExmaple\obj\Debug\net8.0-windows\HospitalManagementSystem.csproj.AssemblyReference.cache
 C:\Users\onurm\source\repos\LoginFormExmaple\obj\Debug\net8.0-windows\LoginFormExmaple.Doctor.resources
 C:\Users\onurm\source\repos\LoginFormExmaple\obj\Debug\net8.0-windows\LoginFormExmaple.Info.resources
 C:\Users\onurm\source\repos\LoginFormExmaple\obj\Debug\net8.0-windows\LoginFormExmaple.LogIn.resources
@@ -29,6 +29,7 @@ C:\Users\onurm\source\repos\LoginFormExmaple\obj\Debug\net8.0-windows\HospitalMa
 C:\Users\onurm\source\repos\LoginFormExmaple\obj\Debug\net8.0-windows\HospitalManagementSystem.AssemblyInfoInputs.cache
 C:\Users\onurm\source\repos\LoginFormExmaple\obj\Debug\net8.0-windows\HospitalManagementSystem.AssemblyInfo.cs
 C:\Users\onurm\source\repos\LoginFormExmaple\obj\Debug\net8.0-windows\HospitalManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\onurm\source\repos\LoginFormExmaple\obj\Debug\net8.0-windows\HospitalManagementSystem.sourcelink.json
 C:\Users\onurm\source\repos\LoginFormExmaple\obj\Debug\net8.0-windows\Hospital.D08A6E9A.Up2Date
 C:\Users\onurm\source\repos\LoginFormExmaple\obj\Debug\net8.0-windows\HospitalManagementSystem.dll
 C:\Users\onurm\source\repos\LoginFormExmaple\obj\Debug\net8.0-windows\refint\HospitalManagementSystem.dll

@@ -52,9 +52,10 @@ namespace LoginFormExmaple
                     //NavigateBasedOnRole(user);
                     
                     MainPage mainPage = new MainPage();
+                    login.
                     mainPage.Show();
 
-                    this.Close();
+                    
                     //ClearFields();
                 }
                 else
@@ -68,11 +69,11 @@ namespace LoginFormExmaple
             }
         }
 
-        private void ClearFields()
-        {
-            textUsername.Clear();
-            textPassword.Clear();
-        }
+        //private void ClearFields()
+        //{
+        //    textUsername.Clear();
+        //    textPassword.Clear();
+        //}
         
         /*private void NavigateBasedOnRole(User user)
         {
