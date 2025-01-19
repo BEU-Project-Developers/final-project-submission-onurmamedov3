@@ -25,5 +25,27 @@ namespace LoginFormExmaple
 
             this.Close();
         }
+
+        private void pictureBoxInfo_Click(object sender, EventArgs e)
+        {
+            Info infoForm = new Info();
+            infoForm.Show();
+
+            this.Close();
+        }
+
+        private void pictureBoxDoctors_Click(object sender, EventArgs e)
+        {
+            Doctor doctorForm = new Doctor();
+            doctorForm.Show();
+            this.Close();
+        }
+
+        private void pictureBoxPatients_Click(object sender, EventArgs e)
+        {
+            Patients patientsForm = new Patients();
+            patientsForm.Show();
+            this.Close();
+        }
     }
 }

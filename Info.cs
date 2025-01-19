@@ -16,5 +16,13 @@ namespace LoginFormExmaple
         {
             InitializeComponent();
         }
+
+        private void buttonBackToMainMenu_Click(object sender, EventArgs e)
+        {
+            this.Close();
+            MainPage mainPage = new MainPage();
+            mainPage.Show();
+            
+        }
     }
 }

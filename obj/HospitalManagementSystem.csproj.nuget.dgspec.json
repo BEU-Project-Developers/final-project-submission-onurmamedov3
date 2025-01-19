@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\HospitalManagementSystem.csproj": {}
+    "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\HospitalManagementSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\HospitalManagementSystem.csproj": {
+    "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\HospitalManagementSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\HospitalManagementSystem.csproj",
+        "projectUniqueName": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\HospitalManagementSystem.csproj",
         "projectName": "HospitalManagementSystem",
-        "projectPath": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\HospitalManagementSystem.csproj",
+        "projectPath": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\HospitalManagementSystem.csproj",
         "packagesPath": "C:\\Users\\onurm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\obj\\",
+        "outputPath": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

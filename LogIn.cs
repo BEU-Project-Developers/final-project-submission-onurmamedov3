@@ -16,6 +16,7 @@ namespace LoginFormExmaple
         {
             InitializeComponent();
 
+            
             try
             {
                 users = GetUsersFromDatabase();
@@ -25,10 +26,10 @@ namespace LoginFormExmaple
                 MessageBox.Show($"An error occurred while initializing the users: {ex.Message}", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
-            button1.Click += button1_Click;
-            textPassword.UseSystemPasswordChar = true;
+            buttonLogIn.Click += button1_Click;
 
-
+            textPassword.PasswordChar = '*';  //sifre bu formada gorunecek
+            this.AcceptButton = buttonLogIn;  //Enter duymesini sixanda -> daxil ol
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -52,8 +53,9 @@ namespace LoginFormExmaple
                     //NavigateBasedOnRole(user);
                     
                     MainPage mainPage = new MainPage();
-                    login.
+                    //this.Close();
                     mainPage.Show();
+                    //this.Close();
 
                     
                     //ClearFields();

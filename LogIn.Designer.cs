@@ -35,7 +35,7 @@
             panel1 = new Panel();
             panel2 = new Panel();
             pictureBoxLock = new PictureBox();
-            button1 = new Button();
+            buttonLogIn = new Button();
             textUsername = new TextBox();
             textPassword = new TextBox();
             newUserLabelLink = new LinkLabel();
@@ -99,21 +99,21 @@
             pictureBoxLock.TabIndex = 4;
             pictureBoxLock.TabStop = false;
             // 
-            // button1
+            // buttonLogIn
             // 
-            button1.BackColor = SystemColors.ActiveCaptionText;
-            button1.Cursor = Cursors.Hand;
-            button1.FlatAppearance.BorderSize = 0;
-            button1.FlatStyle = FlatStyle.Flat;
-            button1.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button1.ForeColor = Color.White;
-            button1.Location = new Point(66, 446);
-            button1.Name = "button1";
-            button1.Size = new Size(477, 65);
-            button1.TabIndex = 6;
-            button1.Text = "LOG IN";
-            button1.UseVisualStyleBackColor = false;
-            button1.Click += button1_Click;
+            buttonLogIn.BackColor = SystemColors.ActiveCaptionText;
+            buttonLogIn.Cursor = Cursors.Hand;
+            buttonLogIn.FlatAppearance.BorderSize = 0;
+            buttonLogIn.FlatStyle = FlatStyle.Flat;
+            buttonLogIn.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            buttonLogIn.ForeColor = Color.White;
+            buttonLogIn.Location = new Point(66, 446);
+            buttonLogIn.Name = "buttonLogIn";
+            buttonLogIn.Size = new Size(477, 65);
+            buttonLogIn.TabIndex = 6;
+            buttonLogIn.Text = "LOG IN";
+            buttonLogIn.UseVisualStyleBackColor = false;
+            buttonLogIn.Click += button1_Click;
             // 
             // textUsername
             // 
@@ -155,7 +155,7 @@
             Controls.Add(newUserLabelLink);
             Controls.Add(textPassword);
             Controls.Add(textUsername);
-            Controls.Add(button1);
+            Controls.Add(buttonLogIn);
             Controls.Add(panel2);
             Controls.Add(pictureBoxLock);
             Controls.Add(panel1);
@@ -182,7 +182,7 @@
         private Panel panel1;
         private Panel panel2;
         private PictureBox pictureBoxLock;
-        private Button button1;
+        private Button buttonLogIn;
         private TextBox textUsername;
         private TextBox textPassword;
         private LinkLabel newUserLabelLink;

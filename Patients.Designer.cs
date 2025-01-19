@@ -182,7 +182,7 @@
             buttonAdd.BackColor = Color.Green;
             buttonAdd.Font = new Font("Times New Roman", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
             buttonAdd.ForeColor = Color.White;
-            buttonAdd.Location = new Point(972, 132);
+            buttonAdd.Location = new Point(968, 127);
             buttonAdd.Name = "buttonAdd";
             buttonAdd.Size = new Size(132, 38);
             buttonAdd.TabIndex = 38;
@@ -209,6 +209,7 @@
             buttonBackToMainMenu.TabIndex = 40;
             buttonBackToMainMenu.Text = "Back ";
             buttonBackToMainMenu.UseVisualStyleBackColor = false;
+            buttonBackToMainMenu.Click += buttonBackToMainMenu_Click;
             // 
             // Patients
             // 
@@ -232,7 +233,10 @@
             Controls.Add(buttonPrescription);
             Controls.Add(buttonDSave);
             Controls.Add(dataGridView1);
+            MaximumSize = new Size(1174, 766);
+            MinimumSize = new Size(1174, 766);
             Name = "Patients";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Patients";
             ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();

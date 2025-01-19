@@ -66,6 +66,7 @@
             buttonBackToMainMenu.TabIndex = 21;
             buttonBackToMainMenu.Text = "Back ";
             buttonBackToMainMenu.UseVisualStyleBackColor = false;
+            buttonBackToMainMenu.Click += buttonBackToMainMenu_Click;
             // 
             // Info
             // 

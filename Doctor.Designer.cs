@@ -191,6 +191,7 @@
             buttonBackToMainMenu.TabIndex = 20;
             buttonBackToMainMenu.Text = "Back ";
             buttonBackToMainMenu.UseVisualStyleBackColor = false;
+            buttonBackToMainMenu.Click += buttonBackToMainMenu_Click;
             // 
             // Doctor
             // 
@@ -212,7 +213,10 @@
             Controls.Add(buttonDEdit);
             Controls.Add(buttonDSave);
             Controls.Add(dataGridView1);
+            MaximumSize = new Size(1154, 756);
+            MinimumSize = new Size(1154, 756);
             Name = "Doctor";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Doctor";
             ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();

@@ -56,6 +56,7 @@
             pictureBoxDoctors.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBoxDoctors.TabIndex = 0;
             pictureBoxDoctors.TabStop = false;
+            pictureBoxDoctors.Click += pictureBoxDoctors_Click;
             // 
             // pictureBoxPatients
             // 
@@ -67,6 +68,7 @@
             pictureBoxPatients.SizeMode = PictureBoxSizeMode.CenterImage;
             pictureBoxPatients.TabIndex = 1;
             pictureBoxPatients.TabStop = false;
+            pictureBoxPatients.Click += pictureBoxPatients_Click;
             // 
             // pictureBoxDiagnosis
             // 
@@ -89,6 +91,7 @@
             pictureBoxInfo.SizeMode = PictureBoxSizeMode.Zoom;
             pictureBoxInfo.TabIndex = 3;
             pictureBoxInfo.TabStop = false;
+            pictureBoxInfo.Click += pictureBoxInfo_Click;
             // 
             // buttonLogOut
             // 
