@@ -1,118 +1,118 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\",
+  "WorkspaceRootPath": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:5:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:5:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:4:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:4:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:7:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:7:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:6:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:6:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\info.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:info.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|solutionrelative:info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\doctor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:doctor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:3:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:3:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:4:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:4:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|solutionrelative:patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\doctor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:doctor.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:5:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:5:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:4:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:4:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:7:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:7:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:6:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:6:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\info.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:info.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|solutionrelative:info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:3:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:3:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:4:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:4:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|solutionrelative:patients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:signup.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:2:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:2:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\onedrive\\desktop\\hospitalmanagementsystem\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:2:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:2:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:2:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,15 +122,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LogIn.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\LogIn.cs",
               "RelativeDocumentMoniker": "LogIn.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\LogIn.cs [Design]",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\LogIn.cs [Design]",
               "RelativeToolTip": "LogIn.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T08:52:50.674Z",
@@ -139,11 +139,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Program.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -152,13 +152,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "LogIn.cs",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\LogIn.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\LogIn.cs",
               "RelativeDocumentMoniker": "LogIn.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\LogIn.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\LogIn.cs",
               "RelativeToolTip": "LogIn.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABrAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T08:54:22.591Z",
               "IsPinned": true,
@@ -166,13 +166,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "LogIn.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\LogIn.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\LogIn.Designer.cs",
               "RelativeDocumentMoniker": "LogIn.Designer.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\LogIn.Designer.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\LogIn.Designer.cs",
               "RelativeToolTip": "LogIn.Designer.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T12:21:11.744Z",
               "IsPinned": true,
@@ -180,84 +180,85 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "MainPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\MainPage.cs",
               "RelativeDocumentMoniker": "MainPage.cs",
               "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs [Design]",
-              "RelativeToolTip": "MainPage.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\LoginFormExmaple\\MainPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T13:44:40.134Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "SignUp.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\SignUp.cs",
               "RelativeDocumentMoniker": "SignUp.cs",
               "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs [Design]",
-              "RelativeToolTip": "SignUp.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\LoginFormExmaple\\SignUp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T14:23:03.614Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 3,
               "Title": "Doctor.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\Doctor.cs",
               "RelativeDocumentMoniker": "Doctor.cs",
               "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Doctor.cs [Design]",
-              "RelativeToolTip": "Doctor.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\LoginFormExmaple\\Doctor.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T17:27:24.325Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "Patients.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Patients.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\Patients.cs",
               "RelativeDocumentMoniker": "Patients.cs",
               "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Patients.cs [Design]",
-              "RelativeToolTip": "Patients.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\LoginFormExmaple\\Patients.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T18:22:29.303Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "Info.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Info.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\Info.cs",
               "RelativeDocumentMoniker": "Info.cs",
               "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Info.cs [Design]",
-              "RelativeToolTip": "Info.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\LoginFormExmaple\\Info.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T19:05:16.029Z",
               "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 0,
               "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\Doctor.cs",
               "RelativeDocumentMoniker": "Doctor.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Doctor.cs",
-              "RelativeToolTip": "Doctor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBYAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\Doctor.cs*",
+              "RelativeToolTip": "Doctor.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-04T18:05:06.525Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "SignUp.cs",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\SignUp.cs",
               "RelativeDocumentMoniker": "SignUp.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\SignUp.cs",
               "RelativeToolTip": "SignUp.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -266,59 +267,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MainPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs",
-              "RelativeDocumentMoniker": "MainPage.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs [Design]",
-              "RelativeToolTip": "MainPage.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T12:02:23.644Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs",
-              "RelativeDocumentMoniker": "MainPage.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs [Design]",
-              "RelativeToolTip": "MainPage.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-18T12:02:09.383Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MainPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs",
-              "RelativeDocumentMoniker": "MainPage.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs [Design]",
-              "RelativeToolTip": "MainPage.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T19:17:48.648Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "MainPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs",
-              "RelativeDocumentMoniker": "MainPage.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs [Design]",
-              "RelativeToolTip": "MainPage.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T19:17:16.628Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Info.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Info.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\Info.Designer.cs",
               "RelativeDocumentMoniker": "Info.Designer.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Info.Designer.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\Info.Designer.cs",
               "RelativeToolTip": "Info.Designer.cs",
               "ViewState": "AgIAAFoAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -326,22 +279,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Info.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Info.cs",
-              "RelativeDocumentMoniker": "Info.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Info.cs [Design]",
-              "RelativeToolTip": "Info.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T19:14:17.135Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "MainPage.cs",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\MainPage.cs",
               "RelativeDocumentMoniker": "MainPage.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\MainPage.cs",
               "RelativeToolTip": "MainPage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -349,36 +291,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "MainPage.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\MainPage.Designer.cs",
               "RelativeDocumentMoniker": "MainPage.Designer.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.Designer.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\MainPage.Designer.cs",
               "RelativeToolTip": "MainPage.Designer.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T18:58:25.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 2,
               "Title": "Doctor.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Doctor.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\Doctor.Designer.cs",
               "RelativeDocumentMoniker": "Doctor.Designer.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Doctor.Designer.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\Doctor.Designer.cs",
               "RelativeToolTip": "Doctor.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwOgAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T18:07:20.199Z"
+              "WhenOpened": "2024-12-04T18:07:20.199Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\User.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\User.cs",
               "RelativeDocumentMoniker": "User.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\User.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\User.cs",
               "RelativeToolTip": "User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -386,11 +329,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "SignUp.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\SignUp.Designer.cs",
               "RelativeDocumentMoniker": "SignUp.Designer.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.Designer.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\SignUp.Designer.cs",
               "RelativeToolTip": "SignUp.Designer.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAswAQBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -398,23 +341,82 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "SignUp.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs",
-              "RelativeDocumentMoniker": "SignUp.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs [Design]",
-              "RelativeToolTip": "SignUp.cs [Design]",
+              "DocumentIndex": 27,
+              "Title": "Doctor.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\Doctor.cs",
+              "RelativeDocumentMoniker": "Doctor.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Doctor.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\LoginFormExmaple\\Doctor.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T07:36:03.826Z",
+              "WhenOpened": "2024-12-22T17:45:26.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\MainPage.cs [Design]",
+              "RelativeToolTip": "MainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:02:23.644Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 12,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\MainPage.cs [Design]",
+              "RelativeToolTip": "MainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T19:17:16.628Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\MainPage.cs [Design]",
+              "RelativeToolTip": "MainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T19:17:48.648Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "SignUp.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\SignUp.cs",
               "RelativeDocumentMoniker": "SignUp.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs [Design]",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\SignUp.cs [Design]",
+              "RelativeToolTip": "SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T17:54:46.037Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\MainPage.cs [Design]",
+              "RelativeToolTip": "MainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T18:55:02.572Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUp.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\SignUp.cs [Design]",
               "RelativeToolTip": "SignUp.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T07:00:06.537Z",
@@ -422,47 +424,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "SignUp.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs",
-              "RelativeDocumentMoniker": "SignUp.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs [Design]",
-              "RelativeToolTip": "SignUp.cs [Design]",
+              "DocumentIndex": 9,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\MainPage.cs [Design]",
+              "RelativeToolTip": "MainPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T17:54:46.037Z"
+              "WhenOpened": "2025-01-18T12:02:09.383Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Info.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\Info.cs",
+              "RelativeDocumentMoniker": "Info.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Info.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\LoginFormExmaple\\Info.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T19:14:17.135Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\SignUp.cs",
+              "RelativeDocumentMoniker": "SignUp.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\LoginFormExmaple\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T07:36:03.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Patients.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Patients.cs",
+              "DocumentMoniker": "C:\\Users\\onurm\\OneDrive\\Desktop\\HospitalManagementSystem\\Patients.cs",
               "RelativeDocumentMoniker": "Patients.cs",
               "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Patients.cs [Design]",
-              "RelativeToolTip": "Patients.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\LoginFormExmaple\\Patients.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T18:55:17.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "MainPage.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs",
-              "RelativeDocumentMoniker": "MainPage.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs [Design]",
-              "RelativeToolTip": "MainPage.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T18:55:02.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Doctor.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Doctor.cs",
-              "RelativeDocumentMoniker": "Doctor.cs",
-              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Doctor.cs [Design]",
-              "RelativeToolTip": "Doctor.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T17:45:26.667Z"
             }
           ]
         }

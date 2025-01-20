@@ -30,8 +30,8 @@ namespace LoginFormExmaple
         {
             Info infoForm = new Info();
             infoForm.Show();
-
             this.Close();
+
         }
 
         private void pictureBoxDoctors_Click(object sender, EventArgs e)

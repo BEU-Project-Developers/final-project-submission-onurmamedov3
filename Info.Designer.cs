@@ -77,7 +77,10 @@
             Controls.Add(buttonBackToMainMenu);
             Controls.Add(labelAbout);
             Controls.Add(textBoxHospitalInfo);
+            MaximumSize = new Size(1135, 679);
+            MinimumSize = new Size(1135, 679);
             Name = "Info";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Info";
             ResumeLayout(false);
             PerformLayout();

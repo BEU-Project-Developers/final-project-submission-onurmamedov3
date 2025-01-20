@@ -28,7 +28,7 @@ namespace LoginFormExmaple
 
             buttonLogIn.Click += button1_Click;
 
-            textPassword.PasswordChar = '*';  //sifre bu formada gorunecek
+            //textPassword.PasswordChar = '*';  //sifre bu formada gorunecek
             this.AcceptButton = buttonLogIn;  //Enter duymesini sixanda -> daxil ol
         }
 
@@ -51,13 +51,15 @@ namespace LoginFormExmaple
                 {
                     MessageBox.Show("Login successful! Welcome!", "Success", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     //NavigateBasedOnRole(user);
-                    
-                    MainPage mainPage = new MainPage();
-                    //this.Close();
-                    mainPage.Show();
-                    //this.Close();
 
-                    
+                    //MainPage mainPage = new MainPage();
+                    //mainPage.Show();
+                    //this.Close();
+                    MainPage mainPage = new MainPage();
+                    //this.Hide(); // Hide the current form
+                    //mainPage.FormClosed += (s, args) => this.Close(); // Close LogIn when MainPage is closed
+                    mainPage.Show();
+
                     //ClearFields();
                 }
                 else
@@ -138,11 +140,14 @@ namespace LoginFormExmaple
         {
             //this.Close(); evvelki pencereni baglayacaq,yeni log in penceresini
             this.Hide(); 
-
             SignUp signUpForm = new SignUp();
-            //signUpForm.ShowDialog(); // ele edir ki,istifadeci yalniz bir pencere ile islesin,
-            // yeni bu pencere baglanmamis digeri acilmayacaq
+            //this.Hide(); // Hide the current form
+            //signUpForm.FormClosed += (s, args) => this.Close(); // Close LogIn when SignUp is closed
             signUpForm.Show();
+            //SignUp signUpForm = new SignUp();
+            ////signUpForm.ShowDialog(); // ele edir ki,istifadeci yalniz bir pencere ile islesin,
+            //// yeni bu pencere baglanmamis digeri acilmayacaq
+            //signUpForm.Show();
             //this.Close();
         }
     }

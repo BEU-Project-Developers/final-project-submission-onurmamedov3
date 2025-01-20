@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:5:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:5:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:4:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:4:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -15,16 +31,8 @@
       "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:7:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:7:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|LoginFormExmaple.csproj|solutionrelative:mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{38F6D4AD-EE3D-48B6-B39E-E9342C28915B}|HospitalManagementSystem.csproj|c:\\users\\onurm\\source\\repos\\loginformexmaple\\mainpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,11 +122,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "LogIn.cs [Design]",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\LogIn.cs",
               "RelativeDocumentMoniker": "LogIn.cs",
@@ -131,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 23,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -144,13 +152,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "LogIn.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\LogIn.cs",
               "RelativeDocumentMoniker": "LogIn.cs",
               "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\LogIn.cs",
               "RelativeToolTip": "LogIn.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAACQAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-06T08:54:22.591Z",
               "IsPinned": true,
@@ -158,7 +166,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "LogIn.Designer.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\LogIn.Designer.cs",
               "RelativeDocumentMoniker": "LogIn.Designer.cs",
@@ -167,11 +175,12 @@
               "ViewState": "AgIAACEAAAAAAAAAAAAIwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T12:21:11.744Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "MainPage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs",
               "RelativeDocumentMoniker": "MainPage.cs",
@@ -183,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "SignUp.cs [Design]",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs",
               "RelativeDocumentMoniker": "SignUp.cs",
@@ -195,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Doctor.cs [Design]",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Doctor.cs",
               "RelativeDocumentMoniker": "Doctor.cs",
@@ -207,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Patients.cs [Design]",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Patients.cs",
               "RelativeDocumentMoniker": "Patients.cs",
@@ -219,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Info.cs [Design]",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Info.cs",
               "RelativeDocumentMoniker": "Info.cs",
@@ -231,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Doctor.cs",
               "RelativeDocumentMoniker": "Doctor.cs",
@@ -244,7 +253,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "SignUp.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs",
               "RelativeDocumentMoniker": "SignUp.cs",
@@ -257,14 +266,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "MainPage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs",
               "RelativeDocumentMoniker": "MainPage.cs",
               "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs [Design]",
               "RelativeToolTip": "MainPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T19:17:48.648Z",
+              "WhenOpened": "2025-01-18T12:02:23.644Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs [Design]",
+              "RelativeToolTip": "MainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:02:09.383Z",
               "EditorCaption": " [Design]"
             },
             {
@@ -276,12 +297,24 @@
               "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs [Design]",
               "RelativeToolTip": "MainPage.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-31T19:17:16.628Z",
+              "WhenOpened": "2024-12-31T19:17:48.648Z",
               "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "MainPage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs",
+              "RelativeDocumentMoniker": "MainPage.cs",
+              "ToolTip": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs [Design]",
+              "RelativeToolTip": "MainPage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T19:17:16.628Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Info.Designer.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Info.Designer.cs",
               "RelativeDocumentMoniker": "Info.Designer.cs",
@@ -293,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Info.cs [Design]",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Info.cs",
               "RelativeDocumentMoniker": "Info.cs",
@@ -304,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "MainPage.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs",
               "RelativeDocumentMoniker": "MainPage.cs",
@@ -316,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MainPage.Designer.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.Designer.cs",
               "RelativeDocumentMoniker": "MainPage.Designer.cs",
@@ -324,11 +357,12 @@
               "RelativeToolTip": "MainPage.Designer.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T18:58:25.598Z"
+              "WhenOpened": "2024-12-22T18:58:25.598Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Doctor.Designer.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Doctor.Designer.cs",
               "RelativeDocumentMoniker": "Doctor.Designer.cs",
@@ -340,7 +374,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\User.cs",
               "RelativeDocumentMoniker": "User.cs",
@@ -352,7 +386,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "SignUp.Designer.cs",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.Designer.cs",
               "RelativeDocumentMoniker": "SignUp.Designer.cs",
@@ -364,7 +398,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "SignUp.cs [Design]",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs",
               "RelativeDocumentMoniker": "SignUp.cs",
@@ -376,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "SignUp.cs [Design]",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs",
               "RelativeDocumentMoniker": "SignUp.cs",
@@ -388,7 +422,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "SignUp.cs [Design]",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\SignUp.cs",
               "RelativeDocumentMoniker": "SignUp.cs",
@@ -399,7 +433,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Patients.cs [Design]",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Patients.cs",
               "RelativeDocumentMoniker": "Patients.cs",
@@ -410,7 +444,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 26,
               "Title": "MainPage.cs [Design]",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\MainPage.cs",
               "RelativeDocumentMoniker": "MainPage.cs",
@@ -421,7 +455,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "Doctor.cs [Design]",
               "DocumentMoniker": "C:\\Users\\onurm\\source\\repos\\LoginFormExmaple\\Doctor.cs",
               "RelativeDocumentMoniker": "Doctor.cs",

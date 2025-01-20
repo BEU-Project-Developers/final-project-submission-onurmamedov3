@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Doctor));
-            dataGridView1 = new DataGridView();
+            dataGridViewDoctors = new DataGridView();
             buttonDSave = new Button();
             buttonDEdit = new Button();
             buttonDDelete = new Button();
@@ -43,18 +43,24 @@
             pictureBox5 = new PictureBox();
             labelCenterHospital = new Label();
             buttonBackToMainMenu = new Button();
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
+            FullName = new DataGridViewTextBoxColumn();
+            Contact = new DataGridViewTextBoxColumn();
+            YOE = new DataGridViewTextBoxColumn();
+            Age = new DataGridViewTextBoxColumn();
+            Address = new DataGridViewTextBoxColumn();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewDoctors).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox5).BeginInit();
             SuspendLayout();
             // 
-            // dataGridView1
+            // dataGridViewDoctors
             // 
-            dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(350, 187);
-            dataGridView1.Name = "dataGridView1";
-            dataGridView1.RowHeadersWidth = 72;
-            dataGridView1.Size = new Size(749, 395);
-            dataGridView1.TabIndex = 7;
+            dataGridViewDoctors.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dataGridViewDoctors.Columns.AddRange(new DataGridViewColumn[] { FullName, Contact, YOE, Age, Address });
+            dataGridViewDoctors.Location = new Point(350, 187);
+            dataGridViewDoctors.Name = "dataGridViewDoctors";
+            dataGridViewDoctors.RowHeadersWidth = 72;
+            dataGridViewDoctors.Size = new Size(749, 395);
+            dataGridViewDoctors.TabIndex = 7;
             // 
             // buttonDSave
             // 
@@ -67,6 +73,7 @@
             buttonDSave.TabIndex = 8;
             buttonDSave.Text = "Save";
             buttonDSave.UseVisualStyleBackColor = false;
+            buttonDSave.Click += buttonDSave_Click;
             // 
             // buttonDEdit
             // 
@@ -193,6 +200,41 @@
             buttonBackToMainMenu.UseVisualStyleBackColor = false;
             buttonBackToMainMenu.Click += buttonBackToMainMenu_Click;
             // 
+            // FullName
+            // 
+            FullName.HeaderText = "Full_Name";
+            FullName.MinimumWidth = 9;
+            FullName.Name = "FullName";
+            FullName.Width = 175;
+            // 
+            // Contact
+            // 
+            Contact.HeaderText = "Contact";
+            Contact.MinimumWidth = 9;
+            Contact.Name = "Contact";
+            Contact.Width = 175;
+            // 
+            // YOE
+            // 
+            YOE.HeaderText = "YearsOfExperiance";
+            YOE.MinimumWidth = 9;
+            YOE.Name = "YOE";
+            YOE.Width = 175;
+            // 
+            // Age
+            // 
+            Age.HeaderText = "Age";
+            Age.MinimumWidth = 9;
+            Age.Name = "Age";
+            Age.Width = 175;
+            // 
+            // Address
+            // 
+            Address.HeaderText = "Address";
+            Address.MinimumWidth = 9;
+            Address.Name = "Address";
+            Address.Width = 175;
+            // 
             // Doctor
             // 
             AutoScaleDimensions = new SizeF(12F, 30F);
@@ -212,13 +254,13 @@
             Controls.Add(buttonDDelete);
             Controls.Add(buttonDEdit);
             Controls.Add(buttonDSave);
-            Controls.Add(dataGridView1);
+            Controls.Add(dataGridViewDoctors);
             MaximumSize = new Size(1154, 756);
             MinimumSize = new Size(1154, 756);
             Name = "Doctor";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Doctor";
-            ((System.ComponentModel.ISupportInitialize)dataGridView1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)dataGridViewDoctors).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox5).EndInit();
             ResumeLayout(false);
             PerformLayout();
@@ -229,7 +271,7 @@
         private Label label1;
         private Label textDPassword;
         private Label textDUsername;
-        private DataGridView dataGridView1;
+        private DataGridView dataGridViewDoctors;
         private Button buttonDEdit;
         private Button buttonDSave;
         private Button buttonDDelete;
@@ -243,5 +285,10 @@
         private PictureBox pictureBox5;
         private Label labelCenterHospital;
         private Button buttonBackToMainMenu;
+        private DataGridViewTextBoxColumn FullName;
+        private DataGridViewTextBoxColumn Contact;
+        private DataGridViewTextBoxColumn YOE;
+        private DataGridViewTextBoxColumn Age;
+        private DataGridViewTextBoxColumn Address;
     }
 }
